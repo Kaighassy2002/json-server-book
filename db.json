@@ -1,0 +1,13 @@
+{
+  "allBooks": [
+    {
+      "id": "6198",
+      "bookName": "Stories of Your Life and Others",
+      "authorName": "Ted Chiang",
+      "imgURL": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-270/edition/9781035038596.jpg",
+      
+      "price": "456"
+    }
+  ]
+  
+}
