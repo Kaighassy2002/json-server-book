@@ -5,9 +5,91 @@
       "bookName": "Stories of Your Life and Others",
       "authorName": "Ted Chiang",
       "imgURL": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-270/edition/9781035038596.jpg",
-      
       "price": "456"
+    },
+    {
+      "id": "1001",
+      "bookName": "The Great Gatsby",
+      "authorName": "F. Scott Fitzgerald",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
+      "price": "299"
+    },
+    {
+      "id": "1002",
+      "bookName": "To Kill a Mockingbird",
+      "authorName": "Harper Lee",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+      "price": "349"
+    },
+    {
+      "id": "1003",
+      "bookName": "1984",
+      "authorName": "George Orwell",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+      "price": "399"
+    },
+    {
+      "id": "1004",
+      "bookName": "Pride and Prejudice",
+      "authorName": "Jane Austen",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+      "price": "279"
+    },
+    {
+      "id": "1005",
+      "bookName": "The Catcher in the Rye",
+      "authorName": "J.D. Salinger",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+      "price": "329"
+    },
+    {
+      "id": "1008",
+      "bookName": "The Hobbit",
+      "authorName": "J.R.R. Tolkien",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg",
+      "price": "379"
+    },
+    {
+      "id": "1009",
+      "bookName": "Brave New World",
+      "authorName": "Aldous Huxley",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg",
+      "price": "359"
+    },
+    {
+      "id": "1011",
+      "bookName": "The Alchemist",
+      "authorName": "Paulo Coelho",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+      "price": "279"
+    },
+    {
+      "id": "1012",
+      "bookName": "The Kite Runner",
+      "authorName": "Khaled Hosseini",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579036753i/77203.jpg",
+      "price": "389"
+    },
+    {
+      "id": "1013",
+      "bookName": "The Book Thief",
+      "authorName": "Markus Zusak",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063.jpg",
+      "price": "419"
+    },
+    {
+      "id": "1014",
+      "bookName": "The Hunger Games",
+      "authorName": "Suzanne Collins",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+      "price": "339"
+    },
+    {
+      "id": "1015",
+      "bookName": "The Da Vinci Code",
+      "authorName": "Dan Brown",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579621267i/968.jpg",
+      "price": "459"
     }
   ]
-  
 }
